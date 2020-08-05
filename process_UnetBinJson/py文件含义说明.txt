@@ -1,0 +1,2 @@
+
+取UnetBin.json文件中每个图片的信息，分别存储为可以用labelme打开的（与图片同名的）json文件
