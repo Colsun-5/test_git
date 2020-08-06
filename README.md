@@ -1,6 +1,3 @@
 # test_git
 check git is avalible
-ff
-895666
-8222
-66666777778888888888888888
+ok
