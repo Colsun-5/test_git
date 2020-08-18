@@ -6,7 +6,7 @@ import os
 from base64 import b64encode
 
 
-"""该函数用来将图片进行转码，返回转码后得到的字符串"""
+"""该函数用来将图片进行转码，最终返回转码后得到的字符串"""
 def  img_to_json(image_name):
     ENCODING = 'utf-8'
     image_path= process_pic_path + image_name
