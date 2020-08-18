@@ -1,4 +1,4 @@
 import os
-print("hi")
+print("hi~")
 print("good!")
 print("excellent!!")
