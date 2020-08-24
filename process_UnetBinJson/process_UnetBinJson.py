@@ -1,3 +1,11 @@
+'''
+Author: your name
+Date: 2020-08-24 22:25:35
+LastEditTime: 2020-08-24 22:25:37
+LastEditors: Please set LastEditors
+Description: In User Settings Edit
+FilePath: /WZX-web/test_git/process_UnetBinJson/process_UnetBinJson.py
+'''
 
 """处理UnetBin.json文件，将其中每个图片的信息存储为json文件 """
 
@@ -6,7 +14,7 @@ import os
 from base64 import b64encode
 
 
-"""该函数用来将图片进行转码，返回值为转码后得到的字符串"""
+"""该函数用来将图片进行转码，返回转码后得到的字符串"""
 def  img_to_json(image_name):
     ENCODING = 'utf-8'
     image_path= process_pic_path + image_name
