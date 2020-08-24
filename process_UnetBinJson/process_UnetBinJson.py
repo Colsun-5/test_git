@@ -7,7 +7,7 @@ Description: In User Settings Edit
 FilePath: /WZX-web/test_git/process_UnetBinJson/process_UnetBinJson.py
 '''
 
-"""处理UnetBin.json文件，将其中每个图片的信息存储为json文件 """
+"""处理UnetBin.json文件，将其中每个图片的信息分别存储为json文件 """
 
 import json
 import os
