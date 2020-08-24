@@ -1,13 +1,11 @@
 '''
 Author: your name
 Date: 2020-08-24 22:25:35
-LastEditTime: 2020-08-24 22:25:37
+LastEditTime: 2020-08-24 22:33:31
 LastEditors: Please set LastEditors
-Description: In User Settings Edit
+Description: 处理UnetBin.json文件，将其中每个图片的信息分别存储为json文件
 FilePath: /WZX-web/test_git/process_UnetBinJson/process_UnetBinJson.py
 '''
-
-"""处理UnetBin.json文件，将其中每个图片的信息分别存储为json文件 """
 
 import json
 import os
